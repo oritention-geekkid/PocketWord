@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">PocketWord</string>
+    <string name="pocketnote_welcome">PocketWord</string>
+    <string name="pocketnote_welcome_wordlist">PocketWord - Word List</string>
+    <string name="pocketnote_btn_add">Add a word</string>
+    <string name="pocketnote_btn_remove">Remove</string>
+    <string name="pocketnote_btn_edit">Edit</string>
+    <string name="pocketnote_btn_open">View</string>
+    <string name="pocketnote_empty">Click the button below to add a word.</string>
+    <string name="pocketnote_btn_to_wordlist">Word List</string>
+    <string name="pocketnote_btn_to_review">Casual Review</string>
+    <string name="pocketnote_welcome_addword">PocketWord - Add a word</string>
+    <string name="pocketnote_btn_to_about">About</string>
+    <string name="hint_word">Word: </string>
+    <string name="hint_translation">Translation: </string>
+    <string name="hint_pos">Part of Speech: </string>
+    <string name="pocketnote_submit">Submit</string>
+    <string name="pocketnote_wordlist_title1">Word</string>
+    <string name="pocketnote_wordlist_title2">Part of Speech</string>
+    <string name="pocketnote_wordlist_title3">Review Times</string>
+    <string name="pocketnote_welcome_wordview">PocketWord - Word View</string>
+    <string name="pocketnote_back">Back</string>
+    <string name="wordview_delete">Delete the word</string>
+    <string name="back"><![CDATA[<]]></string>
+    <string name="back_text">back</string>
+    <string name="label_translation">Translation:</string>
+    <string name="delete_this_word">Delete this word</string>
+    <string name="pocketnote_welcome_casual_review">PocketWord - Casual Review</string>
+    <string name="btn_switchword">Switch</string>
+    <string name="slogan">Note more &amp; Repeat more</string>
+    <string-array name="parts_of_speech">
+        <item>noun(n.)</item>
+        <item>verb(v.)</item>
+        <item>adjective(adj.)</item>
+        <item>adverb(adv.)</item>
+        <item>numeral(num.)</item>
+        <item>article(art.)</item>
+        <item>preposition(prep.)</item>
+        <item>conjunction(conj.)</item>
+        <item>pronoun(pron.)</item>
+        <item>interjection(inter.)</item>
+    </string-array>
+</resources>
