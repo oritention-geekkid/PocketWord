@@ -4,7 +4,7 @@
 
 - [项目概述(Description)](#项目概述description)
 - [支持的系统(Support OS)](#支持的系统support-os)
-- [应用获取和使用(How to get and use)](#下载和使用how-to-get-and-use)
+- [应用获取和使用(How to get and use)](#应用获取和使用how-to-get-and-use)
 - [许可证(License)](#许可证license)
 - [作者的话(Author's Words)](#作者的话authors-words)
 
