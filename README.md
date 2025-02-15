@@ -18,7 +18,7 @@
 ## 应用获取和使用(How to get and use)
 * 详见Release分区
 * Go to Release area for more information
-* (www.github.com/oritention-geekkid/Global/releases)
+* (www.github.com/oritention-geekkid/PocketWord/releases)
 
 ## 许可证(License)
 [GNU General Public License version 3](https://opensource.org/licenses/GPL-3.0)
